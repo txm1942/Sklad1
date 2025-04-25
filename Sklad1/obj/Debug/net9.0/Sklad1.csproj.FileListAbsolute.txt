@@ -1,0 +1,5 @@
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net9.0\Sklad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net9.0\Sklad1.AssemblyInfoInputs.cache
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net9.0\Sklad1.AssemblyInfo.cs
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net9.0\Sklad1.csproj.CoreCompileInputs.cache
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net9.0\Sklad1.sourcelink.json

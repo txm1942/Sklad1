@@ -1,0 +1,15 @@
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.AssemblyInfoInputs.cache
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.AssemblyInfo.cs
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.csproj.CoreCompileInputs.cache
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.sourcelink.json
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\bin\Debug\net8.0\Sklad1.exe
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\bin\Debug\net8.0\Sklad1.deps.json
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\bin\Debug\net8.0\Sklad1.runtimeconfig.json
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\bin\Debug\net8.0\Sklad1.dll
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\bin\Debug\net8.0\Sklad1.pdb
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.dll
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\refint\Sklad1.dll
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.pdb
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\Sklad1.genruntimeconfig.cache
+C:\Users\TomášHlisnikovský\Desktop\programovani\Sklad1\Sklad1\obj\Debug\net8.0\ref\Sklad1.dll
